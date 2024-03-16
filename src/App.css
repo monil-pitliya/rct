@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.monil{
+  color: blue;
+}
+
+.para{
+  color: red;
+  background-color: yellowgreen;
+}
